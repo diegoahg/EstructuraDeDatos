@@ -1,5 +1,5 @@
-# S1
-repaso cin, cout, ciclos, arreglos, funciones, struct, archivos
+# S2
+POO: Introducción a Clases y Objetos
 
 ## Ejecutar en sistemas UNIX
 
