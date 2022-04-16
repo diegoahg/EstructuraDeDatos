@@ -1,6 +1,8 @@
 # S4
 Herencia Simple y Multiple
 
+![Herencia Simple y Multiple](image.png "Desafio Herencia Clash Royale")
+
 ## Ejecutar en sistemas UNIX
 
 Prerequisitos:
