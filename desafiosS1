@@ -1,0 +1,27 @@
+DESAFIO SEMANA 1
+
+1.- Implemente la función estaContenido (int a, int b), que devuelva true(Boolean) si el número B (sólo un digito) esta contenido en A.
+  Ejemplo:
+    estaContenido(14236, 6) = true
+    estaContenido(14236, 5) = false
+    estaContenido(14236, 8) = false
+    estaContenido(14236, 2) = true
+
+2.- Implemente la función diaString(int dia), que permita ingresar valores entre 1 y 7, y devuelva un string dependiendo del valor de entrada.
+  Si 1 = Lunes, 2 = Martes, 3 = Miércoles, etc. ..
+  OBS: Si el valor esta fuera del rango, deberá devolver un carácter vacío.
+
+3.- Implemente la función periodoToString(int), que permita ingresar valores de 6 dígitos,en el formato AAAAMM y entregue {MesString}-{AAAA}
+  Ejemplo:
+      periodoToString(201802) > Febrero-2018
+      periodoToString(201709) > Septiembre-2017
+
+4.- Implemente un menú que permita:
+  a. Ingreso de un número
+  b. Mostrar el número
+  c. Multiplicar el número por N (solicitar al usuario N)
+  d. Restar N (solicitar al usuario N)
+  e. Salir
+  Observación: Deberá limpiar la pantalla después de cada operación.
+
+5.- Implemente la función multiplicarPorReferencia(int A, int B), que deje en la variable A la multiplicación de las dos variables ingresadas, la función debe ser de tipo Void.
